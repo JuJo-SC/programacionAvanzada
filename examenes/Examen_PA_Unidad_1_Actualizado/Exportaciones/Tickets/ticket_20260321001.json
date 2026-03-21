@@ -1,0 +1,12 @@
+{
+  "folio":"20260321001",
+  "fecha":"2026-03-21 01:00:00",
+  "cliente":"Cliente General",
+  "items":[
+    {"producto":"Arroz 1kg","cantidad":2,"precio":18.5,"subtotal":37.0},
+    {"producto":"Leche 1L","cantidad":3,"precio":22.0,"subtotal":66.0}
+  ],
+  "subtotal":103.0,
+  "iva":16.48,
+  "total":119.48
+}

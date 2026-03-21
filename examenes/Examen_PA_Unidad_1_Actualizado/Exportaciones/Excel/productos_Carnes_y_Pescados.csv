@@ -1,0 +1,7 @@
+ID,Código,Nombre,Tipo,Unidad,P.Venta,Stock,Activo
+28,"CAR001","Pechuga de Pollo","Por Peso (kg)","kg",90.0,30,Sí
+29,"CAR002","Carne Molida de Res","Por Peso (kg)","kg",120.0,25,Sí
+30,"CAR003","Costilla de Cerdo","Por Peso (kg)","kg",110.0,20,Sí
+31,"CAR004","Filete de Tilapia","Por Peso (kg)","kg",80.0,15,Sí
+32,"CAR005","Camaron Mediano","Por Peso (kg)","kg",180.0,10,Sí
+33,"CAR006","Salmon en Rebanada","Por Peso (kg)","kg",220.0,8,Sí

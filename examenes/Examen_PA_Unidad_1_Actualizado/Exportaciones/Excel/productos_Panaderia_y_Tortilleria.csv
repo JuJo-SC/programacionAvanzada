@@ -1,0 +1,7 @@
+ID,Código,Nombre,Tipo,Unidad,P.Venta,Stock,Activo
+40,"PAN001","Pan de Caja Blanco","Unitario","unidad",38.0,30,Sí
+41,"PAN002","Tortilla de Maiz 1kg","Unitario","unidad",22.0,60,Sí
+42,"PAN003","Bolillo (pieza)","Unitario","unidad",4.0,100,Sí
+43,"PAN004","Concha de Pan Dulce","Unitario","unidad",6.0,80,Sí
+44,"PAN005","Pan Integral 680g","Unitario","unidad",42.0,25,Sí
+45,"PAN006","Tortilla de Harina","Unitario","unidad",28.0,45,Sí

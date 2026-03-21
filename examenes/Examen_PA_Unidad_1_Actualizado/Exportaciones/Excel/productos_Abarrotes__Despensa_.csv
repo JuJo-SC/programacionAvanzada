@@ -1,0 +1,8 @@
+ID,Código,Nombre,Tipo,Unidad,P.Venta,Stock,Activo
+1,"ABR001","Arroz 1kg","Unitario","unidad",18.5,100,Sí
+2,"ABR002","Frijol Negro 1kg","Unitario","unidad",25.0,80,Sí
+3,"ABR003","Aceite Vegetal 1L","Unitario","unidad",35.0,60,Sí
+4,"ABR004","Pasta Spaghetti 200g","Unitario","unidad",12.0,90,Sí
+5,"ABR005","Sardinas en Lata","Unitario","unidad",22.0,70,Sí
+6,"ABR006","Sal de Mesa 1kg","Unitario","unidad",10.0,120,Sí
+7,"ABR007","Azucar Blanca 1kg","Unitario","unidad",22.0,100,Sí
