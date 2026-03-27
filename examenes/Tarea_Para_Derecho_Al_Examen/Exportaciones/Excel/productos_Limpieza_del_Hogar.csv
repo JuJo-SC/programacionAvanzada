@@ -1,0 +1,7 @@
+ID,Código,Nombre,Tipo,Unidad,P.Venta,Stock,Activo
+46,"LIM001","Detergente en Polvo 1kg","Unitario","unidad",55.0,40,Sí
+47,"LIM002","Suavizante Ropa 800ml","Unitario","unidad",48.0,35,Sí
+48,"LIM003","Desinfectante 1L","Unitario","unidad",38.0,50,Sí
+49,"LIM004","Papel Higienico 4 rollos","Unitario","unidad",42.0,80,Sí
+50,"LIM005","Esponja para Trastes","Unitario","unidad",18.0,100,Sí
+51,"LIM006","Blanqueador 1L","Unitario","unidad",28.0,60,Sí

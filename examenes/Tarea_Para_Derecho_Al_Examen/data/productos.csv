@@ -1,0 +1,69 @@
+1,ABR001,Arroz 1kg,Arroz grano largo,Abarrotes (Despensa),12.0,18.5,100,10,true,imagenes/productos/arroz.jpg
+2,ABR002,Frijol Negro 1kg,Frijol negro de alta calidad,Abarrotes (Despensa),18.0,25.0,80,10,true,imagenes/productos/frijol.jpg
+3,ABR003,Aceite Vegetal 1L,Aceite para cocinar,Abarrotes (Despensa),22.0,35.0,60,8,true,imagenes/productos/aceite.jpg
+4,ABR004,Pasta Spaghetti 200g,Pasta de trigo,Abarrotes (Despensa),8.0,12.0,90,10,true,imagenes/productos/pasta.jpg
+5,ABR005,Sardinas en Lata,Sardinas en salsa de tomate,Abarrotes (Despensa),14.0,22.0,70,8,true,imagenes/productos/sardinas.jpg
+6,ABR006,Sal de Mesa 1kg,Sal fina yodada,Abarrotes (Despensa),6.0,10.0,120,15,true,imagenes/productos/sal.jpg
+7,ABR007,Azucar Blanca 1kg,Azucar refinada,Abarrotes (Despensa),14.0,22.0,100,12,true,imagenes/productos/azucar.jpg
+8,BEB001,Agua Purificada 1.5L,Agua sin gas,Bebidas,6.0,12.0,150,20,true,imagenes/productos/agua.jpg
+9,BEB002,Refresco Cola 2L,Refresco carbonatado,Bebidas,15.0,25.0,80,10,true,imagenes/productos/refresco.jpg
+10,BEB003,Jugo de Naranja 1L,Jugo natural sin azucar anadida,Bebidas,18.0,28.0,60,8,true,imagenes/productos/jugo.jpg
+11,BEB004,Cafe Soluble 200g,Cafe instantaneo,Bebidas,35.0,55.0,40,5,true,imagenes/productos/cafe.jpg
+12,BEB005,Te Verde (25 sobres),Infusion de te verde,Bebidas,22.0,38.0,50,6,true,imagenes/productos/te.jpg
+13,BEB006,Cerveza Lata 355ml,Cerveza clara,Bebidas,14.0,22.0,200,25,true,imagenes/productos/cerveza.jpg
+14,BEB007,Bebida Energetica 250ml,Bebida con cafeina,Bebidas,18.0,28.0,90,10,true,imagenes/productos/energetica.jpg
+15,LAC001,Leche Entera 1L,Leche pasteurizada,Lacteos y Huevo,14.0,22.0,100,15,true,imagenes/productos/leche.jpg
+16,LAC002,Huevo 30 piezas,Huevo blanco fresco,Lacteos y Huevo,55.0,85.0,60,8,true,imagenes/productos/huevo.jpg
+17,LAC003,Yogurt Natural 1kg,Yogurt sin azucar,Lacteos y Huevo,28.0,42.0,40,5,true,imagenes/productos/yogurt.jpg
+18,LAC004,Mantequilla 90g,Mantequilla sin sal,Lacteos y Huevo,22.0,35.0,50,6,true,imagenes/productos/mantequilla.jpg
+19,LAC005,Crema Acida 200g,Crema para cocinar,Lacteos y Huevo,18.0,28.0,55,7,true,imagenes/productos/crema.jpg
+20,LAC006,Gelatina Familiar,Postre de gelatina,Lacteos y Huevo,10.0,18.0,70,10,true,imagenes/productos/gelatina.jpg
+21,FRV001,Manzana,Manzana roja fresca,Frutas y Verduras,22.0,35.0,50,5,true,imagenes/productos/manzana.jpg
+22,FRV002,Platano,Platano tabasco,Frutas y Verduras,10.0,18.0,60,6,true,imagenes/productos/platano.jpg
+23,FRV003,Tomate,Tomate bola fresco,Frutas y Verduras,15.0,25.0,40,4,true,imagenes/productos/tomate.jpg
+24,FRV004,Zanahoria,Zanahoria fresca,Frutas y Verduras,12.0,20.0,45,5,true,imagenes/productos/zanahoria.jpg
+25,FRV005,Papa,Papa blanca,Frutas y Verduras,14.0,22.0,80,8,true,imagenes/productos/papa.jpg
+26,FRV006,Naranja,Naranja valenciana,Frutas y Verduras,16.0,28.0,70,7,true,imagenes/productos/naranja.jpg
+27,FRV007,Chayote,Chayote verde fresco,Frutas y Verduras,8.0,15.0,35,4,true,imagenes/productos/chayote.jpg
+28,CAR001,Pechuga de Pollo,Pechuga sin hueso,Carnes y Pescados,60.0,90.0,30,3,true,imagenes/productos/pollo.jpg
+29,CAR002,Carne Molida de Res,Carne molida fresca,Carnes y Pescados,80.0,120.0,25,3,true,imagenes/productos/carne_res.jpg
+30,CAR003,Costilla de Cerdo,Costilla ahumada,Carnes y Pescados,70.0,110.0,20,2,true,imagenes/productos/cerdo.jpg
+31,CAR004,Filete de Tilapia,Tilapia sin espinas,Carnes y Pescados,50.0,80.0,15,2,true,imagenes/productos/tilapia.jpg
+32,CAR005,Camaron Mediano,Camaron fresco pelado,Carnes y Pescados,120.0,180.0,10,1,true,imagenes/productos/camaron.jpg
+33,CAR006,Salmon en Rebanada,Salmon atlantico,Carnes y Pescados,150.0,220.0,8,1,true,imagenes/productos/salmon.jpg
+34,SAL001,Jamon de Pavo,Jamon bajo en grasa,Salchichoneria,55.0,85.0,20,2,true,imagenes/productos/jamon.jpg
+35,SAL002,Salchicha Viena,Salchicha de pavo,Salchichoneria,48.0,75.0,25,3,true,imagenes/productos/salchicha.jpg
+36,SAL003,Tocino Ahumado,Tocino en rebanadas,Salchichoneria,85.0,130.0,15,2,true,imagenes/productos/tocino.jpg
+37,SAL004,Queso Manchego,Queso manchego rebanado,Salchichoneria,120.0,180.0,12,2,true,imagenes/productos/queso.jpg
+38,SAL005,Chorizo Rojo,Chorizo estilo espanol,Salchichoneria,78.0,120.0,18,2,true,imagenes/productos/chorizo.jpg
+39,SAL006,Mortadela,Mortadela con aceitunas,Salchichoneria,42.0,65.0,22,3,true,imagenes/productos/mortadela.jpg
+40,PAN001,Pan de Caja Blanco,Pan de caja grande,Panaderia y Tortilleria,24.0,38.0,30,4,true,imagenes/productos/pan_caja.jpg
+41,PAN002,Tortilla de Maiz 1kg,Tortilla fresca de maiz,Panaderia y Tortilleria,14.0,22.0,60,8,true,imagenes/productos/tortilla.jpg
+42,PAN003,Bolillo (pieza),Pan frances fresco,Panaderia y Tortilleria,2.0,4.0,100,20,true,imagenes/productos/bolillo.jpg
+43,PAN004,Concha de Pan Dulce,Pan dulce tipo concha,Panaderia y Tortilleria,3.0,6.0,80,15,true,imagenes/productos/concha.jpg
+44,PAN005,Pan Integral 680g,Pan integral de avena,Panaderia y Tortilleria,28.0,42.0,25,4,true,imagenes/productos/pan_integral.jpg
+45,PAN006,Tortilla de Harina,Tortilla de harina grande,Panaderia y Tortilleria,18.0,28.0,45,6,true,imagenes/productos/tortilla_harina.jpg
+46,LIM001,Detergente en Polvo 1kg,Detergente para ropa,Limpieza del Hogar,35.0,55.0,40,5,true,imagenes/productos/detergente.jpg
+47,LIM002,Suavizante Ropa 800ml,Suavizante lavanda,Limpieza del Hogar,30.0,48.0,35,4,true,imagenes/productos/suavizante.jpg
+48,LIM003,Desinfectante 1L,Desinfectante multiusos,Limpieza del Hogar,24.0,38.0,50,6,true,imagenes/productos/desinfectante.jpg
+49,LIM004,Papel Higienico 4 rollos,Papel doble hoja,Limpieza del Hogar,28.0,42.0,80,10,true,imagenes/productos/papel_higienico.jpg
+50,LIM005,Esponja para Trastes,Esponja con fibra,Limpieza del Hogar,10.0,18.0,100,15,true,imagenes/productos/esponja.jpg
+51,LIM006,Blanqueador 1L,Blanqueador con cloro,Limpieza del Hogar,16.0,28.0,60,8,true,imagenes/productos/blanqueador.jpg
+52,CUI001,Shampoo Neutro 400ml,Shampoo para todo tipo de cabello,Cuidado Personal,35.0,55.0,40,5,true,imagenes/productos/shampoo.jpg
+53,CUI002,Jabon de Tocador,Jabon antibacterial,Cuidado Personal,10.0,18.0,80,10,true,imagenes/productos/jabon.jpg
+54,CUI003,Pasta Dental 75ml,Pasta con fluor,Cuidado Personal,20.0,32.0,60,8,true,imagenes/productos/pasta_dental.jpg
+55,CUI004,Desodorante Roll-on,Desodorante 24 horas,Cuidado Personal,28.0,45.0,50,6,true,imagenes/productos/desodorante.jpg
+56,CUI005,Crema Corporal 250g,Crema hidratante,Cuidado Personal,40.0,65.0,30,4,true,imagenes/productos/crema_corporal.jpg
+57,CUI006,Papel Facial 100pzs,Kleenex suave,Cuidado Personal,20.0,32.0,45,5,true,imagenes/productos/papel_facial.jpg
+58,SNA001,Papas Sabor Limon,Papas fritas limon,Snacks y Dulceria,10.0,18.0,90,12,true,imagenes/productos/papas.jpg
+59,SNA002,Galletas Marias,Galletas clasicas,Snacks y Dulceria,12.0,22.0,70,10,true,imagenes/productos/galletas.jpg
+60,SNA003,Chocolate de Leche,Barra de chocolate,Snacks y Dulceria,16.0,28.0,60,8,true,imagenes/productos/chocolate.jpg
+61,SNA004,Dulces Surtidos 100g,Dulces mexicanos,Snacks y Dulceria,8.0,15.0,100,15,true,imagenes/productos/dulces.jpg
+62,SNA005,Cacahuates Saladitos,Cacahuates con sal,Snacks y Dulceria,6.0,12.0,80,10,true,imagenes/productos/cacahuates.jpg
+63,SNA006,Palomitas Microondas,Palomitas con mantequilla,Snacks y Dulceria,12.0,20.0,55,7,true,imagenes/productos/palomitas.jpg
+64,MAS001,Alimento Perro Premium 1kg,Croquetas adulto raza mediana,Mascotas,28.0,45.0,20,3,true,imagenes/productos/alimento_perro.jpg
+65,MAS002,Alimento Gato Adulto 1kg,Croquetas para gato adulto,Mascotas,30.0,48.0,18,2,true,imagenes/productos/alimento_gato.jpg
+66,MAS003,Croquetas Cachorro 1kg,Alimento cachorro raza pequeña,Mascotas,32.0,52.0,15,2,true,imagenes/productos/alimento_cachorro.jpg
+67,MAS004,Arena para Gatos 5kg,Arena aglomerante,Mascotas,40.0,65.0,25,3,true,imagenes/productos/arena_gatos.jpg
+68,MAS005,Hueso de Nylon Mediano,Juguete para perros,Mascotas,22.0,35.0,30,4,true,imagenes/productos/juguete_perro.jpg
+69,MAS006,Snack Dental Perro,Premio dental para perros,Mascotas,18.0,28.0,40,5,true,imagenes/productos/snack_perro.jpg

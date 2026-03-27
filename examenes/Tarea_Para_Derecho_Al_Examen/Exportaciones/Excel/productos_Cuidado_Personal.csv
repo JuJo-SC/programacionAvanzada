@@ -1,0 +1,7 @@
+ID,Código,Nombre,Tipo,Unidad,P.Venta,Stock,Activo
+52,"CUI001","Shampoo Neutro 400ml","Unitario","unidad",55.0,40,Sí
+53,"CUI002","Jabon de Tocador","Unitario","unidad",18.0,80,Sí
+54,"CUI003","Pasta Dental 75ml","Unitario","unidad",32.0,60,Sí
+55,"CUI004","Desodorante Roll-on","Unitario","unidad",45.0,50,Sí
+56,"CUI005","Crema Corporal 250g","Unitario","unidad",65.0,30,Sí
+57,"CUI006","Papel Facial 100pzs","Unitario","unidad",32.0,45,Sí

@@ -1,0 +1,7 @@
+ID,Código,Nombre,Tipo,Unidad,P.Venta,Stock,Activo
+64,"MAS001","Alimento Perro Premium 1kg","Por Peso (kg)","kg",45.0,20,Sí
+65,"MAS002","Alimento Gato Adulto 1kg","Por Peso (kg)","kg",48.0,18,Sí
+66,"MAS003","Croquetas Cachorro 1kg","Por Peso (kg)","kg",52.0,15,Sí
+67,"MAS004","Arena para Gatos 5kg","Unitario","unidad",65.0,25,Sí
+68,"MAS005","Hueso de Nylon Mediano","Unitario","unidad",35.0,30,Sí
+69,"MAS006","Snack Dental Perro","Unitario","unidad",28.0,40,Sí

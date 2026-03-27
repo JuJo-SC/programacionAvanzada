@@ -1,0 +1,7 @@
+ID,Código,Nombre,Tipo,Unidad,P.Venta,Stock,Activo
+34,"SAL001","Jamon de Pavo","Por Peso (kg)","kg",85.0,20,Sí
+35,"SAL002","Salchicha Viena","Por Peso (kg)","kg",75.0,25,Sí
+36,"SAL003","Tocino Ahumado","Por Peso (kg)","kg",130.0,15,Sí
+37,"SAL004","Queso Manchego","Por Peso (kg)","kg",180.0,12,Sí
+38,"SAL005","Chorizo Rojo","Por Peso (kg)","kg",120.0,18,Sí
+39,"SAL006","Mortadela","Por Peso (kg)","kg",65.0,22,Sí

@@ -1,0 +1,7 @@
+ID,Código,Nombre,Tipo,Unidad,P.Venta,Stock,Activo
+15,"LAC001","Leche Entera 1L","Unitario","unidad",22.0,100,Sí
+16,"LAC002","Huevo 30 piezas","Unitario","unidad",85.0,60,Sí
+17,"LAC003","Yogurt Natural 1kg","Unitario","unidad",42.0,40,Sí
+18,"LAC004","Mantequilla 90g","Unitario","unidad",35.0,50,Sí
+19,"LAC005","Crema Acida 200g","Unitario","unidad",28.0,55,Sí
+20,"LAC006","Gelatina Familiar","Unitario","unidad",18.0,70,Sí

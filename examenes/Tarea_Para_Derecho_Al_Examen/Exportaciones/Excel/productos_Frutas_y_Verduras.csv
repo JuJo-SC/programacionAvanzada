@@ -1,0 +1,8 @@
+ID,Código,Nombre,Tipo,Unidad,P.Venta,Stock,Activo
+21,"FRV001","Manzana","Por Peso (kg)","kg",35.0,50,Sí
+22,"FRV002","Platano","Por Peso (kg)","kg",18.0,60,Sí
+23,"FRV003","Tomate","Por Peso (kg)","kg",25.0,40,Sí
+24,"FRV004","Zanahoria","Por Peso (kg)","kg",20.0,45,Sí
+25,"FRV005","Papa","Por Peso (kg)","kg",22.0,80,Sí
+26,"FRV006","Naranja","Por Peso (kg)","kg",28.0,70,Sí
+27,"FRV007","Chayote","Por Peso (kg)","kg",15.0,35,Sí

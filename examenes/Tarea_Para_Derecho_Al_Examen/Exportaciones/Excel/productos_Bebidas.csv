@@ -1,0 +1,8 @@
+ID,Código,Nombre,Tipo,Unidad,P.Venta,Stock,Activo
+8,"BEB001","Agua Purificada 1.5L","Unitario","unidad",12.0,150,Sí
+9,"BEB002","Refresco Cola 2L","Unitario","unidad",25.0,80,Sí
+10,"BEB003","Jugo de Naranja 1L","Unitario","unidad",28.0,60,Sí
+11,"BEB004","Cafe Soluble 200g","Unitario","unidad",55.0,40,Sí
+12,"BEB005","Te Verde (25 sobres)","Unitario","unidad",38.0,50,Sí
+13,"BEB006","Cerveza Lata 355ml","Unitario","unidad",22.0,200,Sí
+14,"BEB007","Bebida Energetica 250ml","Unitario","unidad",28.0,90,Sí

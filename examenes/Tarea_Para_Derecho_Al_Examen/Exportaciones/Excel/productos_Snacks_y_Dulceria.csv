@@ -1,0 +1,7 @@
+ID,Código,Nombre,Tipo,Unidad,P.Venta,Stock,Activo
+58,"SNA001","Papas Sabor Limon","Unitario","unidad",18.0,90,Sí
+59,"SNA002","Galletas Marias","Unitario","unidad",22.0,70,Sí
+60,"SNA003","Chocolate de Leche","Unitario","unidad",28.0,60,Sí
+61,"SNA004","Dulces Surtidos 100g","Unitario","unidad",15.0,100,Sí
+62,"SNA005","Cacahuates Saladitos","Unitario","unidad",12.0,80,Sí
+63,"SNA006","Palomitas Microondas","Unitario","unidad",20.0,55,Sí
